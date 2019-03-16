@@ -99,6 +99,7 @@ p {
 
  .l-heading {
      font-size: 30px;
+     line-height: 1.2;
  }
 
 
@@ -126,7 +127,7 @@ p {
     color: #fff;
 }
 
-#navbar h1 {
+#navbar .logo {
     float: left;
     padding-top: 20px;
 }
@@ -182,7 +183,7 @@ p {
 /*Home Info*/
 
 #home__info {
-    height: 400px;
+    height: 450px;
 }
 
 #home__info .info-img {
@@ -247,7 +248,7 @@ p {
 /* Testimonial */
 
 #testimonials {
-    height: 600px;
+   
     background: url('../images/barrels.jpg') no-repeat center center/cover;
     padding-top: 100px;
 
